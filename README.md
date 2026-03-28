@@ -5,6 +5,9 @@ A Control4 driver for the APC AP7920 Switched Rack PDU that provides individual 
   <img src="https://img.shields.io/badge/Control4-OS%204.x-blue" alt="Control4 OS 4.x">
 ![Outlets](https://img.shields.io/badge/Outlets-8-green)
 ![Protocol](https://img.shields.io/badge/Protocol-SNMP-orange)
+
+<a href="https://www.buymeacoffee.com/ckunakdot" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Overview
 
 This driver enables full integration of the APC AP7920 8-outlet switched PDU with Control4 home automation systems. It communicates directly with the PDU using the SNMP protocol, allowing you to control and monitor outlets from Composer, touchscreens, or programmed automation.
